@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.container {
+    background: white;
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 8px;
+    width: 80%;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background: skyblue;
+}
